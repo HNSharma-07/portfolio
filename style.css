@@ -525,6 +525,11 @@ nav {
     background-image: url(./images/projects/Project4.png);
 }
 
+.more-projects {
+    font-size: 45px;
+    text-align: center;
+    padding-top: 20px;
+}
 
 .skills-container {
     max-width: 1200px;
